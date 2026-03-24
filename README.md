@@ -1,4 +1,4 @@
-# ⚡ Naveen | Full Stack Developer
+# ⚡ Naveen | Developer
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=ffff00&height=200&section=header&text=NAVEEN&fontSize=80&animation=fadeIn&fontColor=000000" width="100%" />
 </p>
