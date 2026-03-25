@@ -6,7 +6,7 @@
 ---
 
 ## 🧠 Tech Stack
-- Languages: C / C++ / Java / Python
+- Languages: C / C++ / Python
 - Web: HTML, CSS, JavaScript
 - Tools: Git, Linux, VS Code
 
