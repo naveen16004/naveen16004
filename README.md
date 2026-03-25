@@ -25,4 +25,4 @@
 ---
 
 ## 🔗 Connect
-- LinkedIn: your link
+- LinkedIn: https://www.linkedin.com/in/naveen-t-1611004tn
