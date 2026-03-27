@@ -32,12 +32,12 @@
 
 ### 🩸 Combat Records
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&title_color=e74c3c&icon_color=e74c3c&text_color=ffffff&bg_color=0d1117&border_color=e74c3c" alt="Berserk Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=naveen16004&show_icons=true&theme=tokyonight&title_color=e74c3c&icon_color=e74c3c&text_color=ffffff&bg_color=0d1117&border_color=e74c3c" alt="Berserk Stats" />
 
 <br/>
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=0d1117&fire=e74c3c&ring=e74c3c&currStreakLabel=e74c3c&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=e74c3c" alt="Berserker Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen16004&theme=tokyonight&background=0d1117&fire=e74c3c&ring=e74c3c&currStreakLabel=e74c3c&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=e74c3c" alt="Berserker Streak" />
 
 <br/>
 
