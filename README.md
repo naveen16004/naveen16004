@@ -26,18 +26,18 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=e74c3c&text=BERSERK%20DEVELOPMENT&height=100&fontSize=50" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=e74c3c&text=BERSERK%20DEVELOPMENT&height=100&fontSize=50&animation=fadeIn" width="100%" />
 
 <br/>
 
 ### 🩸 Combat Records
-
-<img src="https://github-readme-stats.vercel.app/api?username=naveen16004&show_icons=true&theme=tokyonight&title_color=e74c3c&icon_color=e74c3c&text_color=ffffff&bg_color=0d1117&border_color=e74c3c" alt="Berserk Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=naveen16004&show_icons=true&theme=tokyonight&title_color=e74c3c&icon_color=e74c3c&text_color=ffffff&bg_color=0d1117&border_color=e74c3c" alt="Berserk Stats" />
 
 <br/>
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen16004&theme=tokyonight&background=0d1117&fire=e74c3c&ring=e74c3c&currStreakLabel=e74c3c&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=e74c3c" alt="Berserker Streak" />
+### ⚔️ The Eternal Streak
+<img src="https://streak-stats.demolab.com/?user=naveen16004&theme=tokyonight&background=0d1117&fire=e74c3c&ring=e74c3c&currStreakLabel=e74c3c&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=e74c3c" alt="Berserker Streak" />
 
 <br/>
 
@@ -53,7 +53,6 @@
 </p>
 
 </div>
-
 
 ---
 
