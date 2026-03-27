@@ -18,16 +18,16 @@
 - 🌐 Portfolio Website
 
 ---
-
 ## 📊 GitHub Stats
-![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveen16004&show_icons=true&theme=radical)
+![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveen16004&show_icons=true&theme=berserk)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen16004&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen16004&layout=compact&theme=berserk)
 
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naveen16004&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naveen16004&theme=berserk)
+
 
 
 ---
