@@ -32,7 +32,7 @@
 <br/>
 
 ### ⚔️ The Eternal Streak
-<img src="https://streak-stats.demolab.com/?user=naveen16004&theme=tokyonight&background=0d1117&fire=e74c3c&ring=e74c3c&currStreakLabel=e74c3c&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=e74c3c" alt="Berserker Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen16004&theme=tokyonight&background=0d1117&ring=f84424&fire=f84424&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&border=f84424&stroke=f84424" alt="The Eternal Streak" />
 
 <br/>
 
