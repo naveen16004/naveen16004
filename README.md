@@ -1,5 +1,4 @@
 # 👋 Hey, I'm Naveen
-
 💻 Coding like a lone warrior carving through chaos...  
 ⚔️ Building projects, breaking systems, learning endlessly  
 
@@ -18,21 +17,23 @@
 - 🌐 Portfolio Website
 
 ---
+
 <div align="center">
 
 # 🗡️ The Struggler's Log
 
 > *"In this world, is the destiny of mankind controlled by some transcendental entity or law? At least it is true that man has no control, even over his own will."*
 
-
 ### 🩸 Combat Records
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=naveen16004&show_icons=true&theme=tokyonight&title_color=e74c3c&icon_color=e74c3c&text_color=ffffff&bg_color=0d1117&border_color=e74c3c" alt="Berserk Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=naveen16004&show_icons=true&theme=tokyonight&title_color=e74c3c&icon_color=e74c3c&text_color=ffffff&bg_color=0d1117&border_color=e74c3c&cache_seconds=1800" alt="Berserk Stats" />
 
 <br/>
 <br/>
 
 ### ⚔️ The Eternal Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen16004&theme=tokyonight&background=0d1117&ring=f84424&fire=f84424&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&border=f84424&stroke=f84424" alt="The Eternal Streak" />
+
+<img src="https://streak-stats.demolab.com/?user=naveen16004&theme=tokyonight&background=0d1117&ring=f84424&fire=f84424&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&border=f84424&stroke=f84424" alt="The Eternal Streak" />
 
 <br/>
 
@@ -48,6 +49,7 @@
 </p>
 
 </div>
+
 ---
 
 ## 🔗 Connect
