@@ -92,12 +92,15 @@ class Naveen:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=naveen16004&show_icons=true&theme=dark&title_color=E53935&icon_color=E53935&text_color=ffffff&bg_color=0d0000&border_color=B71C1C&cache_seconds=60" />
-<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=naveen16004&background=0d0000&ring=E53935&fire=FF5252&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&border=B71C1C&stroke=B71C1C" />
+<img width="70%" src="https://github-readme-stats-fast.vercel.app/api?username=naveen16004&show_icons=true&theme=dark&title_color=E53935&icon_color=E53935&text_color=ffffff&bg_color=0d0000&border_color=B71C1C&cache_seconds=60" />
 
 <br/><br/>
 
-<img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=naveen16004&layout=compact&theme=dark&title_color=E53935&text_color=ffffff&bg_color=0d0000&border_color=B71C1C&cache_seconds=60" />
+<img width="70%" src="https://github-readme-streak-stats-eight.vercel.app/?user=naveen16004&background=0d0000&ring=E53935&fire=FF5252&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&border=B71C1C&stroke=B71C1C" />
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=naveen16004&layout=compact&theme=dark&title_color=E53935&text_color=ffffff&bg_color=0d0000&border_color=B71C1C&cache_seconds=60" />
 
 </div>
 
@@ -107,7 +110,7 @@ class Naveen:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=naveen16004&theme=onedark&column=7&margin-w=10&no-frame=true&title_color=E53935)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=naveen16004&theme=radical&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
