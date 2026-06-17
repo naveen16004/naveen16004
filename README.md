@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B71C1C,7F0000,E53935&height=180&section=header&text=Naveen&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Linux%20Enthusiast%20%7C%20Code%20Warrior&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B71C1C,100:7F0000&height=180&section=header&text=Naveen&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Linux%20Enthusiast%20%7C%20Code%20Warrior&descAlignY=55&descSize=18"/>
 
 <br/>
 
@@ -110,7 +110,7 @@ class Naveen:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=naveen16004&theme=radical&no-frame=false&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=naveen16004&theme=radical&no-frame=false&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -157,6 +157,6 @@ class Naveen:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B71C1C,7F0000,E53935&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,100:B71C1C&height=100&section=footer"/>
 
 </div>
