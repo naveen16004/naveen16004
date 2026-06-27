@@ -1,155 +1,130 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B71C1C,100:7F0000&height=180&section=header&text=Naveen&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Linux%20Enthusiast%20%7C%20Code%20Warrior&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Naveen&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Linux%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=E53935&center=true&vCenter=true&width=650&lines=Every+line+of+code+carries+weight...;Building+projects%2C+breaking+systems;MERN+Stack+%7C+Linux+%7C+Systems+Programmer;Learning+endlessly%2C+struggling+gloriously" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=2C5364&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+web+applications;MERN+Stack+Developer+%7C+Linux+Enthusiast;Turning+ideas+into+functional+products;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=naveen16004&style=for-the-badge&color=B71C1C&labelColor=1a0000)
-[![GitHub followers](https://img.shields.io/github/followers/naveen16004?style=for-the-badge&color=B71C1C&labelColor=1a0000&label=Followers)](https://github.com/naveen16004?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-B71C1C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0000)](https://www.linkedin.com/in/naveen-t-1611004tn)
+![Profile Views](https://komarev.com/ghpvc/?username=naveen16004&style=for-the-badge&color=203A43&labelColor=0F2027)
+[![GitHub followers](https://img.shields.io/github/followers/naveen16004?style=for-the-badge&color=203A43&labelColor=0F2027&label=Followers)](https://github.com/naveen16004?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-203A43?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F2027)](https://www.linkedin.com/in/naveen-t-1611004tn)
 
 </div>
 
 ---
 
-## 🧬 About Me
+### 👋 About Me
 
-```python
-class Naveen:
-    def __init__(self):
-        self.name        = "Naveen T"
-        self.location    = "Tamil Nadu, India 🇮🇳"
-        self.role        = "Full Stack Developer"
-        self.stack       = ["MERN", "C/C++", "Python", "Linux"]
-        self.obsessions  = ["OS internals", "encryption", "clean UI"]
-        self.philosophy  = "Every line of code carries weight…"
-
-    def currently(self):
-        return {
-            "building"  : "High-performance web apps & custom OS tools",
-            "learning"  : "Systems programming & advanced Linux internals",
-            "exploring" : "Zero-knowledge cryptography & AI integrations"
-        }
-```
+- 🎓 Full Stack Developer skilled in the **MERN Stack**, **C/C++**, and **Python**
+- 🐧 Passionate about **Linux internals**, system-level programming, and automation
+- 🔐 Interested in **cryptography** and building privacy-focused applications
+- 🌱 Currently exploring **systems programming** and **zero-knowledge cryptography**
+- 💡 Focused on writing clean, efficient, and maintainable code
+- 📫 Open to collaborations and interesting conversations — let's connect!
 
 ---
 
-## ⚡ Tech Arsenal
+### ⚡ Tech Stack
 
 <div align="center">
 
-**🖥️ Languages**
+**Languages**
 
-![C](https://img.shields.io/badge/C-B71C1C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-B71C1C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-B71C1C?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-B71C1C?style=for-the-badge&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-2C5364?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-2C5364?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2C5364?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2C5364?style=for-the-badge&logo=javascript&logoColor=white)
 
-**🌐 Web & Frameworks**
+**Frontend & Backend**
 
-![React](https://img.shields.io/badge/React-7F0000?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-7F0000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-7F0000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-7F0000?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-7F0000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-7F0000?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-203A43?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-203A43?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-203A43?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-203A43?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-203A43?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-203A43?style=for-the-badge&logo=css3&logoColor=white)
 
-**🛠️ Tools & Environment**
+**Tools & Platforms**
 
-![Linux](https://img.shields.io/badge/Linux-E53935?style=for-the-badge&logo=linux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-E53935?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E53935?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-E53935?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-E53935?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0F2027?style=for-the-badge&logo=linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-0F2027?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0F2027?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0F2027?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-0F2027?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🖥️ FunkyOS](https://github.com/naveen16004/FunkyOS) | Portable Arch-based "Ghost" OS that runs entirely in RAM with LUKS-encrypted Vault & Python AI Bridge | `Shell` `Arch Linux` `LUKS` |
-| [🎬 MovieVault](https://github.com/naveen16004/Movie) | High-performance streaming web app powered by TMDB API with seamless full-stack frontend | `React` `CSS` `TMDB API` |
-| [🔐 Zero Knowledge Encryption App](https://github.com/naveen16004) | Privacy-first app leveraging ZK cryptography — encrypt and verify without revealing secrets | `Cryptography` `Python` |
-| [📊 Cognitive Debt Tracker](https://github.com/naveen16004) | Tracks mental load & technical debt with intelligent dashboards | `MERN Stack` |
-| [🌐 Portfolio](https://github.com/naveen16004/Profile) | Sleek personal portfolio built with MERN Stack showcasing projects & skills | `JavaScript` `React` |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [🖥️ FunkyOS](https://github.com/naveen16004/FunkyOS) | A portable, Arch-based OS that runs entirely in RAM, featuring a LUKS-encrypted vault and a Python-based security bridge | `Shell` `Arch Linux` `LUKS` |
+| [🎬 MovieVault](https://github.com/naveen16004/Movie) | A high-performance movie streaming web app powered by the TMDB API with a clean, responsive UI | `React` `CSS` `TMDB API` |
+| [🔐 Zero Knowledge Encryption App](https://github.com/naveen16004) | A privacy-first application using zero-knowledge cryptography to verify data without exposing it | `Cryptography` `Python` |
+| [📊 Cognitive Debt Tracker](https://github.com/naveen16004) | A dashboard application that tracks technical debt and workload with clear, intelligent visualizations | `MERN Stack` |
+| [🌐 Portfolio](https://github.com/naveen16004/Profile) | A personal portfolio website built with the MERN stack to showcase projects and skills | `JavaScript` `React` |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-stats-fast.vercel.app/api?username=naveen16004&show_icons=true&theme=dark&title_color=E53935&icon_color=E53935&text_color=ffffff&bg_color=0d0000&border_color=B71C1C&cache_seconds=60" />
+<img width="65%" src="https://github-readme-stats-fast.vercel.app/api?username=naveen16004&show_icons=true&theme=dark&title_color=2C5364&icon_color=2C5364&text_color=ffffff&bg_color=0d1117&border_color=203A43&cache_seconds=3600" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats-eight.vercel.app/?user=naveen16004&background=0d0000&ring=E53935&fire=FF5252&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&border=B71C1C&stroke=B71C1C" />
+<img width="65%" src="https://github-readme-streak-stats-eight.vercel.app/?user=naveen16004&background=0d1117&ring=2C5364&fire=2C5364&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&border=203A43&stroke=203A43" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=naveen16004&layout=compact&theme=dark&title_color=E53935&text_color=ffffff&bg_color=0d0000&border_color=B71C1C&cache_seconds=60" />
+<img width="65%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=naveen16004&layout=compact&theme=dark&title_color=2C5364&text_color=ffffff&bg_color=0d1117&border_color=203A43&cache_seconds=3600" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=naveen16004&theme=radical&no-frame=false&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=naveen16004&theme=darkhub&no-frame=false&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+### 📈 Contribution Graph
 
 <div align="center">
 
-[![Naveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naveen16004&bg_color=0d0000&color=E53935&line=B71C1C&point=ffffff&area=true&area_color=B71C1C&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Naveen's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naveen16004&bg_color=0d1117&color=2C5364&line=2C5364&point=ffffff&area=true&area_color=203A43&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 💬 Dev Philosophy
+### 🤝 Connect With Me
 
 <div align="center">
 
-> *"Every line of code carries weight… like a sword swung through endless suffering."*
->
-> — **Naveen**
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B71C1C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-t-1611004tn)
-[![GitHub](https://img.shields.io/badge/GitHub-7F0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveen16004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-203A43?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-t-1611004tn)
+[![GitHub](https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveen16004)
 
 <br/>
 
-*Open to collaborations, open source contributions, and interesting conversations.*
-
-*If you're building something cool — let's talk. ⚔️*
+*Thanks for visiting my profile — feel free to explore my repositories and reach out if you'd like to collaborate!*
 
 </div>
 
@@ -157,6 +132,6 @@ class Naveen:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,100:B71C1C&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
 
 </div>
