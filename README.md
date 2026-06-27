@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=naveen16004.naveen16004&style=for-the-badge&color=203A43)
+![Profile Views](https://komarev.com/ghpvc/?username=naveen16004&style=for-the-badge&color=203A43&labelColor=0F2027)
 [![GitHub followers](https://img.shields.io/github/followers/naveen16004?style=for-the-badge&color=203A43&labelColor=0F2027&label=Followers)](https://github.com/naveen16004?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-203A43?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F2027)](https://www.linkedin.com/in/naveen-t-1611004tn)
 
