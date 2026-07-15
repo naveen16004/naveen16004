@@ -85,8 +85,6 @@ A personal site marking territory across the digital frontier.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=naveen16004&show_icons=true&theme=tokyonight&title_color=e74c3c&icon_color=e74c3c&text_color=ffffff&bg_color=0d1117&border_color=e74c3c&cache_seconds=60)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=naveen16004&theme=tokyonight&background=0d1117&ring=f84424&fire=f84424&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&border=f84424&stroke=f84424)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen16004&layout=compact&theme=tokyonight&title_color=e74c3c&text_color=ffffff&bg_color=0d1117&border_color=e74c3c)
