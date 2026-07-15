@@ -110,6 +110,7 @@ A personal site marking territory across the digital frontier.
 
 ### `> No fate is decided. Only the next line of code.`
 
-![Profile Views](https://komarev.com/ghpvc/?username=naveen16004&color=e74c3c&style=for-the-badge&label=TRANSMISSIONS+RECEIVED)
+[![Followers](https://img.shields.io/github/followers/naveen16004?style=for-the-badge&color=e74c3c&labelColor=000000&label=ALLIES%20RECRUITED)](https://github.com/naveen16004?tab=followers)
+[![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=CAMPAIGNS%20WAGED&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnaveen16004&color=e74c3c&labelColor=000000)](https://github.com/naveen16004?tab=repositories)
 
 </div>
